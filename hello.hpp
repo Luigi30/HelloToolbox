@@ -1,1 +1,0 @@
-#include <stdio.h>#include <MacWindows.h>#include <Events.h>void Initialize();void MainLoop();void Terminate();
