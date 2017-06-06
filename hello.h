@@ -1,0 +1,1 @@
+#include <MacWindows.h>#include <Events.h>#include <Dialogs.h>#include <ToolUtils.h>#include <Sound.h>void Initialize();void MainLoop();void Terminate();
